@@ -1,0 +1,29 @@
+{
+  "n_users": 980,
+  "n_features": 10,
+  "missing_values": 0,
+  "class_counts": {
+    "Category 7": 790,
+    "Category 10": 161,
+    "Category 8": 15,
+    "Category 6": 8,
+    "Category 5": 2,
+    "Category 1": 1,
+    "Category 4": 1,
+    "Category 2": 1,
+    "Category 3": 1
+  },
+  "knn_best_k_cv": 6,
+  "knn_best_k_test_original": 4,
+  "oracle_argmax_accuracy": 1.0,
+  "majority_share": 0.8061224489795918,
+  "wilcoxon_p": {
+    "Karar Ağacı vs Lojistik Regresyon": 0.0005958863644761799,
+    "Karar Ağacı vs Naive Bayes": 0.0006467491225764764,
+    "Rastgele Orman vs Karar Ağacı": 0.2803344822776591
+  },
+  "max_abs_corr": 0.7506509353574906,
+  "task_b_threshold_median": 2.78,
+  "task_b_pos_rate": 0.4683673469387755,
+  "kmeans_best_k_silhouette": 2
+}

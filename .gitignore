@@ -1,0 +1,15 @@
+# Akademik rapor taslağı (yerelde tutulur, depoya yüklenmez)
+*.docx
+~$*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Ara dosyalar
+tripadvisor_review.csv
+.DS_Store
+Thumbs.db
